@@ -76,17 +76,12 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/FrancoDeber>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FrancoDeber&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/FrancoDeber">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FrancoDeber&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FrancoDeber&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoDeber&layout=compact&theme=midnight-purple"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FrancoDeber&theme=midnight-purple&hide_border=true"/>
+
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FrancoDeber&theme=dark&hide_border=true"/>
-</p>
 
 ## 🤝🏻 &nbsp;Connect with Me
 
